@@ -2,7 +2,7 @@
     "name": "lightwork/core",
     "description": "test cor",
     "type": "php",
-    "license": "lwc",
+    "license": "MIT",
     "authors": [
         {
             "name": "doanln",
