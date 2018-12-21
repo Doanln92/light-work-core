@@ -1,0 +1,21 @@
+{
+    "name": "lightwork/core",
+    "description": "test cor",
+    "type": "php",
+    "license": "lwc",
+    "authors": [
+        {
+            "name": "doanln",
+            "email": "doanln@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "LightWork\\Core\\": "src/"
+        }
+    }
+}
